@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glossary_API", "Glossary_API\Glossary_API.csproj", "{115183D6-F7D5-4743-B090-55AE05000D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glossary_Test", "Glossary_Test\Glossary_Test.csproj", "{26312E27-078F-4924-A485-4193CE8252FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115183D6-F7D5-4743-B090-55AE05000D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115183D6-F7D5-4743-B090-55AE05000D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115183D6-F7D5-4743-B090-55AE05000D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115183D6-F7D5-4743-B090-55AE05000D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26312E27-078F-4924-A485-4193CE8252FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26312E27-078F-4924-A485-4193CE8252FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26312E27-078F-4924-A485-4193CE8252FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26312E27-078F-4924-A485-4193CE8252FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
