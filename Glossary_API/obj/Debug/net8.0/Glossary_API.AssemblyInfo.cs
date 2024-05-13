@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Glossary_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0d751ed7aa8308354934b10ee87f3319638007d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Glossary_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Glossary_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
